@@ -4,7 +4,7 @@
 - 🧠 7+ years building intuitive apps that drive business outcomes
 - 🛠️ Tech: Vue 3, TypeScript, Tailwind, Node.js, Sanity, Azure/AWS
 - 🎨 Currently polishing: [codewithalfred.com](https://www.codewithalfred.com)
-- 📫 Reach me: [LinkedIn](www.linkedin.com/in/alfred-christopher-tamayo-iii-53522a166) · [GitHub](https://github.com/tamayoac)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/alfred-christopher-tamayo-iii-53522a166) · [GitHub](https://github.com/tamayoac)
 - ⚡ Fun: Hiking, collectibles, gaming, workouts
 
 ### Featured Projects
